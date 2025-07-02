@@ -37,7 +37,11 @@
                 {% if content.institution %}
                   <tr>
                     <td style="vertical-align: top; text-align: center" class="institution">
-                      <i class="fa-solid fa-building-columns iconinstitution"></i>
+                      {% if content.logo %}
+                        <img src="/{{ content.logo }}" alt="{{ content.institution }} logo" style="height: 32px; width: auto; margin-right: 8px; vertical-align: middle;" />
+                      {% else %}
+                        <i class="fa-solid fa-building-columns iconinstitution"></i>
+                      {% endif %}
                     </td>
                     <td class="institution">{{ content.institution }}</td>
                   </tr>
