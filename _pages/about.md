@@ -6,7 +6,7 @@ subtitle: <b>Software Engineer at Cisco</b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpg
   image_circular: false
 
 news: false # includes a list of news items
