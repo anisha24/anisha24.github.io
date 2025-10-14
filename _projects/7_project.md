@@ -1,18 +1,38 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Reinforcement Learning for Autonomous Systems
+description: Advanced RL research project focusing on autonomous decision-making systems
 img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+importance: 7
+category: research
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Reinforcement Learning for Autonomous Systems
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed advanced reinforcement learning algorithms for autonomous decision-making systems as part of specialized coursework at IISc, focusing on real-world applications of RL techniques.
+
+### Key Features
+
+- **RL Algorithms**: Implemented and evaluated various reinforcement learning algorithms including DQN, A3C, and PPO
+- **Autonomous Systems**: Applied RL to autonomous navigation and decision-making problems
+- **Policy Optimization**: Developed efficient policy optimization strategies for complex environments
+- **Performance Analysis**: Conducted comprehensive analysis of algorithm performance across different scenarios
+
+### Technologies Used
+
+- **RL Frameworks**: OpenAI Gym, Stable Baselines3 for environment simulation
+- **Deep Learning**: PyTorch for neural network implementation
+- **Programming**: Python for algorithm development and testing
+- **Visualization**: Tensorboard for training monitoring and analysis
+
+### Research Outcomes
+
+This project explored the frontiers of reinforcement learning and its applications to autonomous systems, contributing to understanding how AI agents can learn optimal behaviors in complex, dynamic environments.
+
+---
+
+*Project Duration: 2023 (Academic Research)*
 
     ---
     layout: page

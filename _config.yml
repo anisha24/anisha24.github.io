@@ -186,11 +186,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /:collection/:title/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: false
+  #   permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -200,10 +200,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 0 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 0 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

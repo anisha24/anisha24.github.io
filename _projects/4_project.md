@@ -1,17 +1,37 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Real-time Intrusion Detection System
+description: Advanced video surveillance system for detecting unauthorized personnel in secured areas
+img: assets/img/9.jpg
+importance: 4
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Real-time Intrusion Detection System
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed an advanced video surveillance system for detecting and alerting intrusions by unauthorized personnel within secured perimeters, utilizing cutting-edge computer vision techniques.
+
+### Key Features
+
+- **Object Detection**: Implemented YOLOv3 for real-time detection and classification of individuals
+- **Smart Classification**: Developed custom intrusion rules for friend-or-foe identification
+- **Live Monitoring**: Built MEAN stack dashboard for monitoring and managing live security alerts
+- **High Accuracy**: Achieved real-time processing with minimal false positive rates
+
+### Technologies Used
+
+- **Computer Vision**: YOLOv3, OpenCV for real-time object detection
+- **Backend**: MongoDB, Express.js, Node.js for data processing
+- **Frontend**: Angular for dashboard and alert management
+- **Machine Learning**: Custom rule engines and classification algorithms
+
+### Impact
+
+This system significantly enhanced security capabilities by providing automated, real-time threat detection. The solution reduced the need for manual monitoring while increasing detection accuracy and response times for security incidents.
+
+---
+
+*Project Duration: 2018 (Summer)*
 
     ---
     layout: page

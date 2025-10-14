@@ -1,17 +1,37 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Generative AI Research Project
+description: Advanced research in generative models and representation learning during M.Tech at IISc
+img: assets/img/6.jpg
+importance: 6
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Generative AI Research Project
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Conducted advanced research in generative models and representation learning as part of M.Tech coursework at Indian Institute of Science, Bengaluru, focusing on cutting-edge AI techniques.
+
+### Key Features
+
+- **Generative Models**: Explored state-of-the-art generative modeling techniques including VAEs, GANs, and diffusion models
+- **Representation Learning**: Developed novel approaches for learning meaningful data representations
+- **Computer Vision**: Applied generative techniques to computer vision problems
+- **Research Innovation**: Contributed to advancing the field through experimental research and analysis
+
+### Technologies Used
+
+- **Deep Learning**: PyTorch, TensorFlow for model development
+- **Programming**: Python for research implementation
+- **Research Tools**: Jupyter notebooks, scientific computing libraries
+- **Visualization**: Matplotlib, seaborn for result analysis
+
+### Academic Impact
+
+This research project was part of the rigorous M.Tech curriculum at IISc, one of India's premier research institutions. The work contributed to understanding advanced AI concepts and their practical applications in real-world scenarios.
+
+---
+
+*Project Duration: 2022-2024 (Academic Research)*
 
     ---
     layout: page

@@ -1,18 +1,38 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: AI-Powered Network Test Automation
+description: Intelligent system that automates network testing using fine-tuned LLMs and NLP techniques
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## AI-Powered Network Test Automation
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed an intelligent system that automates network testing using fine-tuned LLMs and NLP techniques to revolutionize network testing workflows.
+
+### Key Features
+
+- **Fine-tuned LLMs**: Created ChatGPT-like tools for automating network test generation and execution
+- **NLP-driven RCA**: Built sophisticated root cause analysis systems for network troubleshooting
+- **Automated Pipelines**: Implemented test execution pipelines reducing manual testing time by 80%
+- **Intelligent Generation**: Developed smart test case generation from natural language requirements
+
+### Technologies Used
+
+- **Machine Learning**: LLM fine-tuning, Natural Language Processing
+- **Programming**: Python, JavaScript
+- **Infrastructure**: Network testing frameworks, CI/CD pipelines
+- **Tools**: Various ML frameworks for model training and deployment
+
+### Impact
+
+This project significantly improved the efficiency of network testing processes, enabling faster deployment cycles and more reliable network infrastructure. The automated approach reduced human error and increased test coverage while providing intelligent insights for troubleshooting.
+
+---
+
+*Project Duration: 2023*
 
     ---
     layout: page

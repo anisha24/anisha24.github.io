@@ -263,3 +263,60 @@ div.skill-tags .badge:hover {
   color: var(--global-bg-color) !important;
   border-color: var(--global-theme-color) !important;
 }
+
+/*****************************
+ * CV PROJECTS styles
+ *****************************/
+
+div.projects-section {
+  margin-top: 1rem;
+}
+
+div.project-item {
+  background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color) !important;
+  transition: all 0.3s ease;
+}
+
+div.project-item:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-color: var(--global-theme-color) !important;
+}
+
+h5.project-title {
+  color: var(--global-theme-color);
+  margin-bottom: 0.75rem;
+}
+
+h5.project-title a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+h5.project-title a:hover {
+  text-decoration: underline;
+}
+
+p.project-summary {
+  color: var(--global-text-color-light);
+  line-height: 1.5;
+}
+
+ul.project-highlights {
+  margin-left: 0;
+}
+
+ul.project-highlights li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+span.highlight-text {
+  color: var(--global-text-color);
+  font-size: 0.9rem;
+}
+
+div.project-item .badge {
+  font-size: 0.75rem;
+  letter-spacing: 0.5px;
+}

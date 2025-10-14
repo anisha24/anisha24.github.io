@@ -1,17 +1,37 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Computer Vision and Deep Learning Project
+description: Advanced computer vision research combining deep learning techniques for image analysis
+img: assets/img/5.jpg
+importance: 9
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Computer Vision and Deep Learning Project
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed advanced computer vision solutions using deep learning techniques as part of specialized coursework at IISc, focusing on image analysis, object detection, and visual understanding.
+
+### Key Features
+
+- **Deep Learning Models**: Implemented state-of-the-art CNN architectures for image classification
+- **Object Detection**: Developed object detection and localization systems using modern architectures
+- **Image Processing**: Advanced image preprocessing and augmentation techniques
+- **Performance Optimization**: Optimized models for accuracy and computational efficiency
+
+### Technologies Used
+
+- **Computer Vision**: OpenCV for image processing and manipulation
+- **Deep Learning**: PyTorch, TensorFlow for model development
+- **Programming**: Python for implementation and experimentation
+- **Tools**: CUDA for GPU acceleration, various CV libraries
+
+### Research Impact
+
+This project explored the intersection of computer vision and deep learning, contributing to understanding how neural networks can be effectively applied to visual recognition tasks and image understanding problems.
+
+---
+
+*Project Duration: 2022-2023 (Academic Research)*
 
     ---
     layout: page

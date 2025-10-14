@@ -1,18 +1,38 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Smart City IoT Data Processing Platform
+description: Comprehensive IoT data processing system for smart city infrastructure with real-time analytics
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Smart City IoT Data Processing Platform
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed a comprehensive IoT data processing system for smart city infrastructure that handles real-time sensor data at scale and provides actionable insights for urban management.
+
+### Key Features
+
+- **Real-time Streaming**: Built custom data pipelines using Kafka, Mosquitto MQTT, and Redis for real-time streaming
+- **Scalable Storage**: Implemented MongoDB storage solution for large-scale sensor data management
+- **Live Visualization**: Created NodeJS APIs and Angular dashboards for live sensor data visualization
+- **Production Integration**: Integrated solution directly into organizational smart city infrastructure
+
+### Technologies Used
+
+- **Streaming**: Apache Kafka, Mosquitto MQTT, Redis
+- **Database**: MongoDB for NoSQL data storage
+- **Backend**: NodeJS APIs for data access
+- **Frontend**: Angular dashboards for real-time visualization
+- **Cloud**: Private cloud deployment and management
+
+### Impact
+
+This platform became the backbone of the organization's smart city initiative, processing thousands of sensor readings per second and providing real-time insights for city management. The system enabled data-driven decision making for urban planning and resource optimization.
+
+---
+
+*Project Duration: 2019-2020*
 
     ---
     layout: page

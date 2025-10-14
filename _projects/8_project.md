@@ -1,18 +1,38 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Natural Language Processing Research
+description: Advanced NLP research focusing on language understanding and text processing techniques
+img: assets/img/8.jpg
+importance: 8
+category: research
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Natural Language Processing Research
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Conducted comprehensive research in natural language processing during M.Tech studies, exploring advanced techniques for language understanding, text processing, and semantic analysis.
+
+### Key Features
+
+- **Language Models**: Explored transformer architectures and pre-trained language models
+- **Text Processing**: Developed advanced text preprocessing and feature extraction techniques
+- **Semantic Analysis**: Implemented methods for semantic understanding and text classification
+- **NLP Applications**: Applied NLP techniques to real-world text processing problems
+
+### Technologies Used
+
+- **NLP Libraries**: NLTK, SpaCy, Transformers for text processing
+- **Deep Learning**: PyTorch, TensorFlow for model development
+- **Programming**: Python for implementation and experimentation
+- **Tools**: Jupyter notebooks for research and analysis
+
+### Research Contributions
+
+This research project contributed to understanding state-of-the-art NLP techniques and their applications in various domains, including text classification, sentiment analysis, and language generation.
+
+---
+
+*Project Duration: 2023 (Academic Research)*
 
     ---
     layout: page

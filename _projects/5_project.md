@@ -1,17 +1,37 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Enterprise Network Configuration Management
+description: Proof of concept for automated data center configuration management and security compliance
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Enterprise Network Configuration Management
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed a proof of concept for automated data center configuration management that enhances infrastructure visibility and ensures security compliance across enterprise networks.
+
+### Key Features
+
+- **Device Mapping**: Developed OneCMDB-based system for mapping network device relationships
+- **Configuration Tracking**: Built comprehensive modules for asset configuration tracking and monitoring
+- **Automated Compliance**: Implemented automated compliance checking and remediation systems
+- **Security Enhancement**: Created automated remediation for security threats and vulnerabilities
+
+### Technologies Used
+
+- **Configuration Management**: OneCMDB for device relationship mapping
+- **Programming**: Java, Python for automation scripts
+- **Network Tools**: SNMP, SSH for device communication
+- **Security**: Vulnerability scanning and automated remediation tools
+
+### Impact
+
+This system provided enterprise-level visibility into network infrastructure and automated many manual configuration management tasks. The solution improved security posture by automatically detecting and remediating configuration drifts and potential threats.
+
+---
+
+*Project Duration: 2018-2019*
 
     ---
     layout: page
